@@ -54,11 +54,5 @@ To use **Assembly AI**, set up an API key:
 - **Assembly AI API** (🗣️ Speech-to-Text Transcription)
 - **Requests** (🔗 API Calls)
 
-## 🤝 Contributing
-Feel free to submit issues or pull requests for improvements! 🚀
-
-## 📜 License
-This project is licensed under the **MIT License**. 📝
-
 ## 📩 Contact
 For any queries, reach out at **📧 SripalUdyavar@gmail.com** or connect on **[LinkedIn](www.linkedin.com/in/sripal-udyavara) 📌**.
