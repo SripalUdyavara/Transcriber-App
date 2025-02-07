@@ -1,6 +1,6 @@
 # 🎤 Transcriber App 📝
 
-![Transcriber App Screenshot](Transcriber.png)
+![Transcriber App Screenshot](Transcriber .png)
 
 ## 🚀 Overview
 The **Transcriber App** is a **Streamlit-based** web application that extracts audio from YouTube videos and converts it into text using **Assembly AI**. The transcribed text can be downloaded in `.txt` or `.srt` format, making it an excellent tool for generating captions and subtitles for YouTube videos. 🎬🎧
