@@ -55,4 +55,4 @@ To use **Assembly AI**, set up an API key:
 - **Requests** (🔗 API Calls)
 
 ## 📩 Contact
-For any queries, reach out at **📧 SripalUdyavar@gmail.com** or connect on **[LinkedIn](www.linkedin.com/in/sripal-udyavara) 📌**.
+For any queries, reach out at **📧 SripalUdyavar@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/sripal-udyavara) 📌**.
